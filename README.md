@@ -20,3 +20,17 @@ Secure Your Favorites: Use the early notification to secure popular and limited-
 
 # Discord Link
 https://discord.gg/CvxUxQKwUS
+
+
+# FAQ
+What is "回流货"?
+"回流货" (reflowed stock) refers to items that are reintroduced or returned to stock unexpectedly. These restocks often go unannounced, so our bot helps by catching these items when they reappear.
+
+# How do I join the group?
+To join, simply complete the monthly payment of RM20. Contact an admin for more details on the payment process and group access.
+
+# Can I cancel my subscription?
+Yes, subscriptions are renewed on a monthly basis, so you can choose to opt out before the next billing cycle if you wish.
+
+# Is there a refund policy?
+Due to the nature of digital services, refunds are generally not available once the payment has been processed.
